@@ -7,3 +7,5 @@ window.addEventListener("scroll", ()=>{
         headerEl.classList.remove("shrink")
     }
 })
+
+
